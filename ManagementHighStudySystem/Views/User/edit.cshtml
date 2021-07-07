@@ -1,0 +1,111 @@
+﻿@model ManagementHighStudySystem.ViewModel.UserViewModel
+@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/css/style1.css">
+    <link rel="shortcut icon" href="~/Content/css/img/icon.png">
+    <link rel="stylesheet" href="~/Content/css/FA/all.css">
+    <script src="~/Content/js/jquery.min.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <title>شؤون الطلاب </title>
+</head>
+
+
+<div class="container">
+    <br>
+    <br>
+    <h2 class="Title">طلبات الدراسات العليا</h2>
+    <br>
+    <br>
+
+
+
+    <div class="card">
+    <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">@Model.user.UserName</button>
+        <div id="demo" class="collapse">
+            <div class="container">
+                <br>
+
+                <div class="card bg-light">
+                    <article class="card-body mx-auto" style="max-width: 400px;">
+                        <h4 class="card-title mt-3 text-center">التسجيل</h4>
+
+                        <form method="post" action="/User/edit">
+                            @{
+                                
+                                @Html.HiddenFor(e => e.user.Id)
+
+                            }
+                            <div class="form-group input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+                                </div>
+                            @Html.TextBoxFor(e=>e.user.UserName,new {@class="from-control", placeholder = "الاسم" })
+                                
+
+
+                            </div> <!-- form-group// -->
+                            <div class="form-group input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"> <i class="fa fa-id-card"></i> </span>
+                                </div>
+                                @Html.TextBoxFor(e => e.user.SSN, new { @class = "from-control", placeholder = "الرقم القومي" })
+                               
+
+                            </div> <!-- form-group// -->
+
+                            <div class="form-group input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
+                                </div>
+                                @Html.TextBoxFor(e => e.user.Email, new { @class = "from-control", placeholder = "البريد الالكتروني" })
+
+                            </div> <!-- form-group// -->
+                            <div class="form-group input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"> <i class="fa fa-phone"></i> </span>
+                                </div>
+                                <select class="custom-select" style="max-width: 120px;">
+                                    <option selected="">+20</option>
+                                </select>
+                                @Html.TextBoxFor(e => e.user.Phone, new { @class = "form-control", placeholder = " رقم الهاتف" })
+
+                             </div> <!-- form-group// -->
+                            <div class="form-group input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"> <i class="fa fa-graduation-cap"></i> </span>
+                                </div>
+                                @{
+                                    Model.pathid = Model.user.path;
+
+
+                                    @Html.DropDownListFor(e => e.pathid, new SelectList(Model.Paths, "id", "pathTitle"), "اختر المسار", new { @class = "form-control" })
+                                }
+                            </div> <!-- form-group end.// -->
+
+                            <div class="form-group">
+
+
+                                <button type="submit" class="edit" style="margin-left:4.5em"> تعديل  </button>
+
+
+                            </div> <!-- form-group// -->
+                        </form>
+                    </article>
+                </div> <!-- card.// -->
+
+            </div>
+
+        </div>
+        <br>
+
+
+    </div>
+
+</div>

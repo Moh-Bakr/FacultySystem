@@ -1,0 +1,344 @@
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll.config
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.pdb
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe.config
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.rsp
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe.config
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.rsp
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.AppContext.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Console.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Compression.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.AccessControl.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Claims.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Principal.Windows.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.ValueTuple.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe.config
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.rsp
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Owin.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\WebGrease.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.pdb
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CoreCompileInputs.cache
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CopyComplete
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.dll
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.pdb
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.initDb.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.GenerateResource.cache
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.pathTable.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserTable.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertPath.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csprojAssemblyReference.cache
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertRoles.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserSSnUnique.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.addApplicantsStatusTable.resources
+E:\iti\.netProjects\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyStatus.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll.config
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.pdb
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe.config
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.rsp
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe.config
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.rsp
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.AppContext.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Console.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Compression.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.AccessControl.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Claims.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Principal.Windows.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.ValueTuple.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe.config
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.rsp
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Owin.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\WebGrease.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.pdb
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.initDb.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.pathTable.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserTable.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertPath.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertRoles.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserSSnUnique.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.addApplicantsStatusTable.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyStatus.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.GenerateResource.cache
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CoreCompileInputs.cache
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CopyComplete
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.dll
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.pdb
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations._new.resources
+E:\iti\.netProjects\New folder\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csprojAssemblyReference.cache
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.pdb
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.exe.config
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csc.rsp
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.exe.config
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\csi.rsp
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.AppContext.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Collections.Immutable.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Console.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Compression.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.IO.Pipes.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.AccessControl.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Claims.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.ValueTuple.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.exe.config
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\vbc.rsp
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\roslyn\VBCSCompiler.exe.config
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Owin.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\WebGrease.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Helpers.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Mvc.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Optimization.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.Razor.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Deployment.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\System.Web.WebPages.Razor.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Newtonsoft.Json.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Antlr3.Runtime.pdb
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\EntityFramework.SqlServer.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Google.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.initDb.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.pathTable.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserTable.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertPath.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.insertRoles.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyUserSSnUnique.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.addApplicantsStatusTable.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations.modifyStatus.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.Migrations._new.resources
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.GenerateResource.cache
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CoreCompileInputs.cache
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.CopyComplete
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.dll
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.pdb
+E:\ManagementHighStudySystem\ManagementHighStudySystem\bin\ManagementHighStudySystem.dll.config
+E:\ManagementHighStudySystem\ManagementHighStudySystem\obj\Debug\ManagementHighStudySystem.csproj.AssemblyReference.cache

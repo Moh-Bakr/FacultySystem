@@ -1,0 +1,311 @@
+/* ---- all style ---- */
+*,*:after,*:before{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: Tahoma, Arial;
+}
+/* ---- navbar ---- */
+.contain{
+    width:85%;
+    margin: auto;
+    
+}
+.nav{
+    background: #FFF;
+    padding: 20px 0px;
+    overflow: hidden;
+}
+.nav .logo{
+    width: 30%;
+    float: left;
+}
+.nav .logo h1{
+    font-size:35px;
+    font-weight:bolder;
+    text-shadow: #0562ad 2px 2px 15px;
+}
+.nav .ul-list{
+    float: right;
+    list-style: none;
+    margin-left: 10px;
+    
+}
+.nav .ul-list li{
+    display: inline-block;
+}
+.nav .ul-list li a , .dropbtn{
+    display: block;
+    text-decoration: none;
+    padding: 15px 23.8px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+}
+.nav .ul-list li a:hover{
+    color: white;
+    background: #0388f6;
+}
+li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .cut{
+    border-bottom: 1px solid #000;
+  }
+
+.nav input , .nav label {
+    position: absolute;
+    top: 13px;
+    right: 25px;
+}
+
+.nav input {
+    display: none;
+}
+
+.nav label {
+    display: block;
+    width: 15px;
+    height: 15px;
+    background: url(img/close.png) no-repeat ;
+    background-size: cover;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.nav input:checked ~ .ul-list {
+    display: none;
+}
+
+.nav input:checked ~ label {
+    background: url(img/open.png) no-repeat ;
+    background-size: cover;
+}
+/* -----------Media for nav.navbar Style----------- */ 
+
+@media (min-width : 1250px) {
+    .nav label {
+        display: none;
+
+    }
+    
+}
+
+@media (max-width : 1250px) {
+    .nav .logo {
+        width: 100%;
+        float: none;
+    }
+    .dropdown-content{
+        position: relative;
+    }
+    .nav .ul-list {
+        width: 100%;
+        float:  none;
+        margin-top: 20px;
+        
+        
+    }
+    .nav .ul-list h1{
+        text-align: center;
+    }
+    
+    .nav .ul-list li {
+        display: block;
+        text-align: center;
+    }
+}
+
+
+
+/* ---- Home ---- */
+
+  .home{
+    height: 850px;
+    background: url(img/home.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    
+}
+.home .home-content{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+}
+.home .home-content .logo{
+    align-items: center;
+    position: relative;
+}
+
+.home .home-content .home-title{
+    font-size: 25px;
+    color: #2f4f67;
+}
+.home .home-content h2{
+    margin-bottom: 25px;
+}
+
+.home .home-content .home-des{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(73, 73, 73);
+    margin-bottom: 25px;
+}
+.home .home-content .home-btn{
+    border: 0;
+    background: #fff;
+    color: #2f4f67;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px 30px;
+    cursor: pointer;
+    opacity: 0.9;
+    
+}
+.home .home-content .home-btn:hover{
+    background:#0388f6;
+    color: aliceblue;
+}
+/* -----------Media for nav.navbar Style----------- */ 
+
+@media (max-width : 1435px) {
+    .home .home-content .logo{
+        align-items: center;
+        position: relative;
+        height: 300px;
+    }
+
+}
+@media (max-width : 1035px) {
+    .home .home-content .logo{
+        display: none;
+    }
+
+}
+
+/* ---Contact us Style--- */
+.contact{
+    text-align: center;
+    padding: 50px 0;
+    background-color: #2f4f67;
+}
+.contact .container{
+    width: 50%;
+    margin: auto;
+    
+}
+.contact .contact-title{
+    padding: 50px 0;
+    font-size: 45px;
+    color: #FFF;
+}
+.contact form{
+    width: 70;
+    margin: auto;
+}
+.contact form input{
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.contact form .form-input{
+    overflow: hidden;
+    font-size: 20px;
+
+}
+.contact form .form-input input{
+    width: 49%;
+    font-size: 15px;
+    
+}
+.contact form .form-input input[type=text] {
+    float: left;
+    width: 49%;
+    font-size: 15px;
+
+
+}
+.contact form .form-input input[type=email] {
+    float: right;
+    font-size: 15px;
+    width: 49%;
+
+}
+.contact form input.sub{
+    width: 100%;
+    font-size: 15px;
+
+}
+.contact form textarea{
+    width: 100%;
+    font-size: 20px;
+
+}
+.contact form input[type=submit] {
+    cursor: pointer;
+    color: #000;
+    background: #fff;
+    border: 1px solid #000;
+    width: 60%;
+    font-size: 20px;
+    font-weight: bold;
+        
+}
+
+/* ---Terms Page--- */
+.main{
+    background-image: url(img/h1.jpg);
+    background-position: center;
+}
+.main .contain{
+    width: 60%;
+    background-color: #FFF;
+    padding: 20px 20px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.main .contain h1{
+    text-align: center;
+    padding: 20px 20px;
+}
+.main .contain h2{
+    text-align: right;
+    text-decoration: underline;
+    padding: 0px 5px;
+
+}
+.main .contain .info{
+    text-align: right;
+    font-size: 18px;
+    padding: 0px 70px;
+}
+/* ---- Student Affairs ---*/

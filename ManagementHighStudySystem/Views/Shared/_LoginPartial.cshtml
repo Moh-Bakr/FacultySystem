@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNet.Identity
+
+@if (Request.IsAuthenticated)
+{
+
+
+    if (User.IsInRole("admin"))
+    {
+        <li>
+            @Html.ActionLink("Hello," + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+        </li>
+        <li>
+            @Html.ActionLink("ادارة الطلبات", "List", "User")
+        </li>
+        <li>
+            @Html.ActionLink("تسجيل الخروج", "LogOff", "Account")
+        </li>
+    }
+    else
+    {
+        <li>
+            @Html.ActionLink("Hello," + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+        </li>
+        
+        <li>
+            <!--signup-->
+            @Html.ActionLink("الطلبات", "Dashboard", "User")
+        </li>
+
+        <li>
+            @Html.ActionLink("تسجيل الخروج", "LogOff", "Account")
+        </li>
+
+    }
+
+}
+else
+{
+
+    @*<li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>*@
+    <li> @Html.ActionLink("التسجيل في مسار", "Register", "Account")</li>
+    <li> @Html.ActionLink("تسجيل الدخول", "Login", "Account")</li>
+    @*<li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn"> تسجيل الدخول</a>
+            <div class="dropdown-content">
+                <a href="#">كشئون الطلاب</a>
+                <a href="login.html">كطالب</a>
+            </div>
+        </li>*@
+
+}

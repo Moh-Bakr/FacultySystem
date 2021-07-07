@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+   
+    @Scripts.Render("~/bundles/modernizr")
+
+    <meta charset="UTF-8">
+    <title>الدراسات العليا</title>
+    <link rel="stylesheet" href="~/Content/css/style.css">
+    <link rel="shortcut icon" href="~/Content/css/img/icon.png">
+</head>
+
+<body>
+    <!-- NavBar -->
+    <div class="contain">
+        <div class="nav">
+            <div class="logo">
+                <h1>جامعة المنوفية</h1>
+            </div>
+            <input type="checkbox" id="nav">
+            <label for="nav"></label>
+
+            <ul class="ul-list">
+                <li><a href="/">الرئيسية</a></li>
+                <li><a href="#">عن الكلية</a></li>
+                @Html.Partial("_LoginPartial")
+            </ul>
+        </div>
+    </div>
+    <div class="cut"></div>
+
+   
+    <div>
+        @RenderBody()
+    </div>
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - ThfTeam</p>
+        </footer>
+    
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
